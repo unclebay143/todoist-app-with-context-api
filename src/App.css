@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+input{
+font-size: 17px;
+padding: 10px;
+}
+
+.add-btn{
+  padding: 10px;
+  font-size: 17px;
+}
+
+ul{
+  list-style-position: unset;
+
+}
+
+li{
+  list-style-type: none;
+}
+
+.action-btn{
+  margin: 0px 5px;
+}
+
+.completed{
+  text-decoration: line-through;
+}
