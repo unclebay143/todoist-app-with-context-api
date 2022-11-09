@@ -49,6 +49,13 @@ padding: 10px;
   font-size: 17px;
 }
 
+.edit-btn{
+  padding: 10px;
+  font-size: 17px;
+  background: dodgerblue;
+  color: white;
+}
+
 ul{
   list-style-position: unset;
 
